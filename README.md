@@ -26,7 +26,7 @@ const vaibhav = {
   interests: ["Web dev", "Minimalism", "Travelling"],
   skills: {
           frontend: {
-             js: [Typescript, OOJS, Angular, React, Redux],
+             js: [OOJS, Typescript, Angular, React, Redux],
              css: [CSS3, SCSS, Bootstrap],
              markup: [HTML5],
              taskRunners:[Webpack, Gulp, Grunt],
@@ -35,7 +35,7 @@ const vaibhav = {
             js: [Nodejs, Expressjs, GraphQL, WebSockets],
             contracts: [ProtoBuf]
           },
-          databases: [MySQL, MongoDB, T-SQL, Elastic Search],
+          databases: [MySQL, MongoDB, MSSQL, Elastic Search],
           devOps: [AWS, Docker, Route53, Nginx],
           queue: [Kafka],
           architecture: ["Microservices", "Event-driven", "Serverless"]
