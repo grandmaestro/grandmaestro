@@ -3,11 +3,11 @@
 <img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230">
 
 <p>Thanks for stopping by! :wave:</p>
-<p>I am fullstack web developer and a javscript enthusiast  <img src="https://media.giphy.com/media/ZYJigxqrWPvxeX9YO0/giphy.gif" width="20" height="20"></p>
+<p>I am a fullstack web developer and a Javascript enthusiast  <img src="https://media.giphy.com/media/ZYJigxqrWPvxeX9YO0/giphy.gif" width="20" height="20"></p>
 </br>
 
-<p>Since starting my work path, I have been involved in building products, self-serve portals and multiple data visualization projects for various start-ups, clients and enterprises from diverse domains.</p>
-<p>I have always considered web development as a means to make core technologies more accessible to people and make life easier.</p>
+<p>Since graduation in 2014, I have been involved in building products, self-serve portals and multiple data visualization projects for various start-ups, clients and enterprises from diverse domains.</p>
+<p>I think of web development as a means to make core technologies more accessible to people and make life easier.</p>
 </br>
 
 <p> Visit me here :point_down: </p>
@@ -44,6 +44,6 @@ const vaibhav = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to exchange our views on movies or life or anything you fancy about :wink: </b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'll be happy to exchange our views on movies or life or anything you fancy about :wink: </b></em>
 
 ---
