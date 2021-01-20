@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vaibhav Gupta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Senior Software Enginner at <a href="https://walmart.com">Walmart Global Tech Services</a><img src="https://media.giphy.com/media/ZYJigxqrWPvxeX9YO0/giphy.gif" width="30"></br>
+<img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230">
+<p><em>Senior Software Engineer at <a href="https://walmart.com">Walmart Global Tech Services</a><img src="https://media.giphy.com/media/ZYJigxqrWPvxeX9YO0/giphy.gif" width="30"></br>
 </em></p>
 
 [![Linkedin: Vaibhav Gupta](https://img.shields.io/badge/-vaibhavgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhavgupta1992/)](https://www.linkedin.com/in/vaibhavgupta1992/)
@@ -12,9 +12,16 @@
 ```javascript
 const vaibhav = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  keywords:["UI", "Product Architecture", "Visualization & Reporting", "Scalability & Performance"]
+  skills: {
+          code: [Javascript, Typescript, HTML, CSS3, Nodejs, OOJS, WebSockets ],
+          handsOn: ["Angular", "Expressjs", "React", "Redux", "GraphQL"],
+          contracts: ["Protobuf"],
+          taskRunners:["Webpack", "Gulp", "Grunt"],
+          databases:["MySQL", "MongoDB", "T-SQL"],
+          infrastructure: ["AWS", "Kafka", "Elastic", "Docker"],
+          architecture: ["Microservices", "Event-driven", "Serverless"]
+        }        
 }
 ```
 
