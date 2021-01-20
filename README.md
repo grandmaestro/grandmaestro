@@ -20,7 +20,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here is a little bit about me...  
 
 ```javascript
-
 const vaibhav = {
   pronouns: "he" | "his",
   askMeAbout:["UI", "Product Architecture", "Visualization & Reporting", "Scalability & Performance"],
@@ -38,7 +37,7 @@ const vaibhav = {
           },
           databases: [MySQL, MongoDB, T-SQL, Elastic Search],
           devOps: [AWS, Docker, Route53, Nginx],
-          queue: [kafka],
+          queue: [Kafka],
           architecture: ["Microservices", "Event-driven", "Serverless"]
         }        
 }
