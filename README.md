@@ -3,12 +3,15 @@
 <img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230">
 
 <p>Thanks for stopping by! :wave:</p>
-<p><em>I am Fullstack developer and web dev enthusiast<img src="https://media.giphy.com/media/ZYJigxqrWPvxeX9YO0/giphy.gif" width="20" height="20"></br>
-</em></p>
-<p>Since starting my work path, I have been involved in building products, self-serve portals and multiple data visualization projects for various start-ups, clients and enterprises from diverse domains. I have always seen web development as a means to make core technologies more accessible and making life easier</p>
+<p>I am fullstack web developer and a javscript enthusiast  <img src="https://media.giphy.com/media/ZYJigxqrWPvxeX9YO0/giphy.gif" width="20" height="20"></p>
+</br>
+
+<p>Since starting my work path, I have been involved in building products, self-serve portals and multiple data visualization projects for various start-ups, clients and enterprises from diverse domains.</p>
+<p>I have always considered web development as a means to make core technologies more accessible to people and make life easier.</p>
 </br>
 
 <p> Visit me here :point_down: </p>
+
 [![Linkedin: Vaibhav Gupta](https://img.shields.io/badge/-vaibhavgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhavgupta1992/)](https://www.linkedin.com/in/vaibhavgupta1992/)
 [![GitHub Grandmaestro](https://img.shields.io/github/followers/grandmaestro?label=follow&style=social)](https://github.com/grandmaestro)
 
