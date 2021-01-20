@@ -30,7 +30,7 @@ const vaibhav = {
           },
           databases: ["MySQL", "MongoDB", "T-SQL", "Elastic Search"],
           devOps: ["AWS", "Docker", "Route53", "Nginx"],
-          queue: ["kafka"]
+          queue: ["kafka"],
           architecture: ["Microservices", "Event-driven", "Serverless"]
         }        
 }
