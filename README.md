@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vaibhav Gupta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Senior Software Enginner at <a href="https://walmart.com">Walmart Global Tech Services</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Senior Software Enginner at <a href="https://walmart.com">Walmart Global Tech Services</a><img src="https://media.giphy.com/media/ZYJigxqrWPvxeX9YO0/giphy.gif" width="30"></br>
 </em></p>
 
 [![Linkedin: Vaibhav Gupta](https://img.shields.io/badge/-vaibhavgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhavgupta1992/)](https://www.linkedin.com/in/vaibhavgupta1992/)
